@@ -114,7 +114,7 @@
   .nav-item{margin: 0 10px; letter-spacing: 2px;}
  
   .nav-item:hover .nav-link{color:rgba(0, 0, 0, 0.584)}
-  .menu-movil{width: 100%; position: fixed; z-index: 100;height: 100vh;top: 0;}
+  .menu-movil{width: 100%; position: fixed; z-index: 100;height: 100vh;top: 0;    padding-bottom: 10vh !important;}
   .menu-movil-center{padding-left: 0; width: 100%;height: 100%; display: flex; flex-direction: column; justify-content: center;align-items: center;list-style: none;}
   .menu-movil-center a{font-size: 30px;margin: 10px 0; color: rgb(42 42 42 / 73%);font-weight: 200;}
   .menu-movil_close{border: none; font-size: 30px; position: absolute; right: 10px; top: 10px;}

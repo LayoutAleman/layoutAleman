@@ -141,6 +141,8 @@
     @media only screen and (max-width: 600px) {
         .project-card-phone{display: block;}
         .project-card-desk{display: none;}
+        .project-card_link:hover .project-card_caption{opacity: 1;}
+        .shadow-top:hover{opacity: 1;}
     }
 
 </style>

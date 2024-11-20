@@ -152,14 +152,14 @@
     .carrusel-logo{width: 60%;}
     .marca-de-agua img{width: 100px}
     .marca-de-agua-der img{width: 125px}
-    .marca-de-agua-der{    left: 16%;top: -52%;}
+    .marca-de-agua-der{    left: 16%;top: -102%;}
     #quienesSomos{margin: 2em 0 2em 0;}   
-    .marca-de-agua-izq{    top: -36%;}
+    .marca-de-agua-izq{    top: -128%;}
     #quienesSomos video{margin-top: 0em;}
     .quote-container{margin-top: 8em;}
     .paragraph-acercade{    margin-left: 5%;text-align: center;}
     .quote{ margin-top: 10px;}
-    .quote h2{font-size: 20px !important;}
+    .quote h2{font-size: 30px !important;}
 }
 </style>
 
